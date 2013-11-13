@@ -1,0 +1,11 @@
+/.bundle
+.DS_Store
+.sass-cache/*
+/coverage/*
+/log/*.log
+/reports/*
+/tmp/*
+/tmp/**/*
+webrat*.*
+(*)/*
+*.tmproj
